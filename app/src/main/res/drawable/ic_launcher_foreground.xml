@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Minimal equalizer mark: three vertical bars -->
+    <path
+        android:fillColor="#8FA7FF"
+        android:pathData="M44,40 h4 v28 h-4 z" />
+    <path
+        android:fillColor="#8FA7FF"
+        android:pathData="M52,32 h4 v44 h-4 z" />
+    <path
+        android:fillColor="#72E6C1"
+        android:pathData="M60,46 h4 v16 h-4 z" />
+</vector>
